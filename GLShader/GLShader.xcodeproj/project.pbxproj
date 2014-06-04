@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		22A892DC193F4EF500400F38 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22A892DB193F4EF500400F38 /* main.cpp */; };
 		22A892DE193F4EF500400F38 /* GLShader.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 22A892DD193F4EF500400F38 /* GLShader.1 */; };
+		22A892FE193F5BD100400F38 /* config.js in Sources */ = {isa = PBXBuildFile; fileRef = 22A892FD193F5BD100400F38 /* config.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		22A892F7193F506700400F38 /* poster_mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poster_mask.png; sourceTree = "<group>"; };
 		22A892F8193F506700400F38 /* poster_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = poster_thumb.jpg; sourceTree = "<group>"; };
 		22A892F9193F50C700400F38 /* config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = config.plist; sourceTree = "<group>"; };
+		22A892FD193F5BD100400F38 /* config.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = config.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				22A892EF193F506700400F38 /* draw */,
 				22A892F4193F506700400F38 /* poster */,
 				22A892F9193F50C700400F38 /* config.plist */,
+				22A892FD193F5BD100400F38 /* config.js */,
 			);
 			path = source;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22A892FE193F5BD100400F38 /* config.js in Sources */,
 				22A892DC193F4EF500400F38 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
