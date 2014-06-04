@@ -1,27 +1,27 @@
 [
  {
-    "name":"book",
+    "name":"书本",
     "glsl":"book/book.glsl",
     "thumb":"book/book_thumb.jpg",
     "background":"book/book.jpg",
     "mask":"book/book_mask.png"
  },
  {
-    "name":"coffee",
+    "name":"咖啡",
     "glsl":"coffee/coffee.glsl",
     "thumb":"coffee/coffee_thumb.jpg",
     "background":"coffee/coffee.jpg",
     "mask":"coffee/coffee_mask.png"
  },
  {
-    "name":"draw",
+    "name":"画画",
     "glsl":"draw/draw.glsl",
     "thumb":"draw/draw_thumb.jpg",
     "background":"draw/draw.jpg",
     "mask":"draw/draw_mask.png"
  },
  {
-    "name":"poster",
+    "name":"广告",
     "glsl":"poster/poster.glsl",
     "thumb":"poster/poster_thumb.jpg",
     "background":"poster/poster.jpg",
