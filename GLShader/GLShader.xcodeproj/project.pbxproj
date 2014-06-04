@@ -45,7 +45,6 @@
 		22A892F6193F506700400F38 /* poster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = poster.jpg; sourceTree = "<group>"; };
 		22A892F7193F506700400F38 /* poster_mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poster_mask.png; sourceTree = "<group>"; };
 		22A892F8193F506700400F38 /* poster_thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = poster_thumb.jpg; sourceTree = "<group>"; };
-		22A892F9193F50C700400F38 /* config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = config.plist; sourceTree = "<group>"; };
 		22A892FD193F5BD100400F38 /* config.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = config.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -93,7 +92,6 @@
 				22A892EA193F506700400F38 /* coffee */,
 				22A892EF193F506700400F38 /* draw */,
 				22A892F4193F506700400F38 /* poster */,
-				22A892F9193F50C700400F38 /* config.plist */,
 				22A892FD193F5BD100400F38 /* config.js */,
 			);
 			path = source;
